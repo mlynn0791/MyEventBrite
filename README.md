@@ -10,7 +10,7 @@ https://github.com/Bootcamp-2022/MyEventBrite/commits/main
 Compiled Group project video for the frontend of this web application.
 https://youtu.be/NkeFV59exQw
 
-Compile Group project video for the backend and API and MongoDB Database testing of this web application.
+Compiled Group project video for the backend and API and MongoDB Database testing of this web application.
 https://youtu.be/3ryWvgqMJg0
 
 
